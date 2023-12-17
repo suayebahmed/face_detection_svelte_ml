@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Noto+Serif:wght@400;500;700&family=Poppins&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 60%;
+    font-family: 'JetBrains Mono', monospace;
+}
